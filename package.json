@@ -1,0 +1,12 @@
+{
+  "name": "oas-docx",
+  "version": "1.0.0",
+  "description": "Export OAS to Word Document",
+  "main": "index.js",
+  "repository": "https://github.com/owenrb/oas-docx.git",
+  "author": "owenrbee@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "docx": "^8.2.3"
+  }
+}
